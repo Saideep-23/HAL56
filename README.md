@@ -5,7 +5,6 @@ This project provides a simple Gradio interface for using the Llama Index, a ver
 
 ![Alt text](screenshot.png "The Interface")
 
-[![Video Thumbnail](video_proof.mp4)
 
 
 ## Getting Started
