@@ -3,6 +3,11 @@
 
 This project provides a simple Gradio interface for using the Llama Index, a versatile library for semantic search. This interface allows you to interact with the Llama Index through a chat-like interface using the Gradio library.
 
+![Alt text](screenshot.png "The Interface")
+
+[![Video Thumbnail](video_proof.mp4)
+
+
 ## Getting Started
 
 ### Prerequisites
